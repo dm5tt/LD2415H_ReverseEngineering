@@ -4,7 +4,10 @@
 
 This is a CW radar with a high gain antenna.
 
-By looking at the Radar IC this PCB maybe can be hacked to inject a voltage into the VCO to turn it into a FMCW radar.
+I think this is a great hackable platform: 
+ - By looking at the Radar IC this PCB maybe can be hacked to inject a voltage into the VCO to turn it into a FMCW radar
+ - The amplification stage can be changed to spit out a I and Q signal (instead of being used for two gain stages)
+ - The antenna has a pretty high gain and the chip is using full 20dBm
 
 ## Hardware
 
