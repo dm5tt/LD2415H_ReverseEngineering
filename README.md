@@ -9,6 +9,8 @@ I think this is a great hackable platform:
  - The amplification stage can be changed to spit out a I and Q signal (instead of being used for two gain stages)
  - The antenna has a pretty high gain and the chip is using full 20dBm
 
+The downside is that it's not that cheap (30-40€).
+
 ## Hardware
 
 The board consists of a 
